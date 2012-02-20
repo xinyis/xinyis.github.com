@@ -1,7 +1,8 @@
 ---
 layout: page
-title: hello!
+title: 囊萤映雪
 ---
+
 {% include JB/setup %}
 
 <ul class="posts">
