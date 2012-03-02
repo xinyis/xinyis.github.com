@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decisive Moment"
-category:[映雪] 
+category: 
 tags: []
 ---
 {% include JB/setup %}
