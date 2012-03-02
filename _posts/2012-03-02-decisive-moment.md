@@ -2,7 +2,7 @@
 layout: post
 title: "Decisive Moment"
 category: 
-tags: [映雪]
+tags: 
 ---
 {% include JB/setup %}
 今天去上了徐老师的世界摄影课，并且两个学期以来首次成功没有迟到。俺很喜欢徐老师，觉得他是个有才情的人。常常给你引用一个莎士比亚或者桑塔格，介绍很多连名字也没听过的旧电影，家里有几千张影碟，花几十万收集旧照片。但你还是会觉得他亲切，是脚着地的人。
@@ -23,7 +23,7 @@ a以前给我看过卡帕的照片，那句「If your photographs aren't good en
    
 >Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative.Oop! The Moment! Once you miss it, it is gone forever.
 
-其实讲的就是「right place, right time」，本土翻译就是地利天时。人有灵光闪现的一刻，事情有走向确定的一瞬。如果把一生打散成百亿帧相片的话，注解你的就是那些被标红刻度的主要帧了。也许人生就是被这些短短的几秒钟所决定的，而这些在零点几秒内作出的决定很微妙，当初你完全不知道它会对你有如此深远的影响。但这样讲就不是布列松本身要表达的意思了，他的观点是你在面临这样的瞬间时，你内心时清楚它时决定性的，而且完全可以把握住的。
+其实讲的就是「right place, right time」，本土翻译就是地利天时。人有灵光闪现的一刻，事情有走向确定的一瞬。如果把一生打散成百亿帧相片的话，注解你的就是那些被标红刻度的主要帧了。也许人生就是被这些瞬间所决定的，而这些在零点几秒内作出的决定很微妙，当初你完全不知道它会对你有如此深远的影响。但这样讲就不是布列松本身要表达的意思了，他的观点是你在面临这样的瞬间时，你内心时清楚它时决定性的，而且完全可以把握住的。
 
 如果有一天我能做到知道什么时候该拿起相机按快门，该做怎样的决定以得到期望的结果，那就好了。也许需要时间，需要读书、思考和经历。有这样的一天吗？转念一想，人生的魅力就在于未知。沙漠之所以美丽是因为什么地方藏着一口井。
 
