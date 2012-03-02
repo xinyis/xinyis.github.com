@@ -5,17 +5,13 @@ title: 囊萤映雪
 
 {% include JB/setup %}
 
+![Alt text](/index_img.jpg)
 
-<table>
-    <tr>
-        <td>![Alt text](/index_img.jpg)</td>
-	<td><ul class="posts">
+<ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}<\td>
+  {% endfor %}
 </ul>
-    </tr>
-</table>
 
 
 
