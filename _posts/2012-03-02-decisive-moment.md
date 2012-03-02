@@ -19,8 +19,8 @@ a以前给我看过卡帕的照片，那句「If your photographs aren't good en
 
 老师说尤金史密斯是人道主义的纪念碑，尤金史密斯奖比何塞更有价值。我不懂这些。不过他的照片有很多我都很喜欢。一张是乡村医生在雨中等车,大雨如注，没拍他的脸，只有吹起的衣角和淋湿的行李，看到这张照片，无数自己经历过的大雨的记忆被唤醒，耳边有雨声想起。另一张是他拍自己的女儿和儿子从自家花园中走向外面，院子里树多很黑，门是亮的，老师说尤金看到这一幕的时候眼泪都要下来了。我看到时觉得世界很安静，内心被照亮。
 
-布列松的很多照片以前就见过，只是不知道是他的。想讲的是他的那个著名理论——决定性瞬间([Decisive Momenti。
+布列松的很多照片以前就见过，只是不知道是他的。想讲的是他的那个著名理论——决定性瞬间([Decisive Moment)。
    
 >Photography is not like painting. There is a creative fraction of a second when you are taking a picture. Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera. That is the moment the photographer is creative.Oop! The Moment! Once you miss it, it is gone forever.
 
-
+其实讲的就是「right place, right time」，本土翻译就是地利天时。人有灵光闪现的一刻，事情有走向确定的一瞬。如果把一生打散成百亿帧相片的话，注解你的就是那些被标红刻度的主要帧了。也许人生就被这些短短的几秒钟所决定的，而这些在零点几秒内作出的决定很微妙，当初你完全不知道它会对你有如此深远的影响。
