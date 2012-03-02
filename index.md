@@ -5,7 +5,8 @@ title: 囊萤映雪
 
 {% include JB/setup %}
 
-![Alt text](./images/test.jpg)
+![Alt text](./_images/test.jpg)
+
 
 <ul class="posts">
   {% for post in site.posts %}
