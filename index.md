@@ -8,16 +8,14 @@ title: 囊萤映雪
 
 <table>
     <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-![Alt text](/index_img.jpg)
-<ul class="posts">
+        <td>![Alt text](/index_img.jpg)</td>
+	<td><ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+  {% endfor %}<\td>
 </ul>
+    </tr>
+</table>
 
 
 
