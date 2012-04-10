@@ -38,7 +38,7 @@ tags: [Perl]
 
 	"Hello"."World"."\n";"
 
-    重复操作符是一个x，后面跟复制次数，会自动取整：
+重复操作符是一个x，后面跟复制次数，会自动取整：
 
 	"Fred" x 3.55 #equivelant to "Fred" x 3 , will get output :FredFredFred"
 
