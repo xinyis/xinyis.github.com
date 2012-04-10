@@ -15,8 +15,10 @@ Chap1 简介
 
 2. Perl语言开头一般写法如下：
 	
-	<#! /usr/bin/perl －w>
-	<use 5.010;>
+	<code>
+	#! /usr/bin/perl －w
+	use 5.010;
+	</code>
 
   如果要显示warning就在后面加-w。有些特征在Perl5.010中才有，譬如第四章中的持续私有变量（state），这时候要加use 5.010这句话。
  
