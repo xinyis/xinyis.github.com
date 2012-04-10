@@ -40,15 +40,34 @@ tags: [Perl]
 
 重复操作符是一个x，后面跟复制次数，会自动取整：
 
-	"Fred" x 3.55 #equivelant to "Fred" x 3 , will get output :FredFredFred"
+	#equivelant to "Fred" x 3 , will get output :FredFredFred"
+	"Fred" x 3.55;
 
 (8) 数字与字符串之间的转换会自动进行，Perl会根据此时的操作符需要什么类型的操作数自行进行处理。
 
+(9) 变量内插会尽可能适用最长且合法的变量名称。如果要在变量后面加字母或者数字的话，可以用｛｝将变量围起来，或者将字符串拆开，用‘.’连接。
+
+（10） 获得用户输入的方法一般如下：
+	
+	chomp($lines = <STDIN>);
+
+其中chromp是用来去掉输入尾部的换行符。
+
+如果是对数组进行批量读入操作的话，会全部放入内存中，用以下代码：
+
+	chomp(@lines = <STDIN>);
+
+如果是从文件读入的话，代码如下：
+	
+	open (FILE, $fileName) || die ("Could not open file"); 
+	chomp(@lines = <FILE>);
+	#do some operations
+	close(FILE)
 
 
+(11) 某个变量没被赋值之前，其初始值是undef，作为数字适用时相当于0,作为字符串使用时相当于空字符串。defined()函数可以用来判断一个变量是不是undef，如果是undef则返回假，否则返回真。
 
-
-
+###Chap3 列表与数组
 
 
 
