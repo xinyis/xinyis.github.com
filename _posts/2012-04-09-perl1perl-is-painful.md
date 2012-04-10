@@ -36,15 +36,11 @@ tags: [Perl]
 
 (7) 字符串的操作有连接和重复。连接用‘.’表示：
 
-	<code>
 	"Hello"."World"."\n";"
-	</code>
 
     重复操作符是一个x，后面跟复制次数，会自动取整：
 
-	<code>
 	"Fred" x 3.55 #equivelant to "Fred" x 3 , will get output :FredFredFred"
-	</code>
 
 (8) 数字与字符串之间的转换会自动进行，Perl会根据此时的操作符需要什么类型的操作数自行进行处理。
 
