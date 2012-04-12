@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perl学习周记(1)－Perl is Painful?"
+title: "Perl学习笔记(1)－Perl is Painful?"
 category: 
 tags: [Perl]
 ---
