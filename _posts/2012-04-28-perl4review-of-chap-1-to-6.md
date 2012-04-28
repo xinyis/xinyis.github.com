@@ -1,6 +1,6 @@
 --- 
-layout: 
-post title: "Perl学习笔记(4)－Review of Chap 1 to 6"
+layout: post 
+title: "Perl学习笔记(4)－Review of Chap 1 to 6"
 category: 
 tags: [Perl]
 ---
