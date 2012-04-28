@@ -5,13 +5,11 @@ category:
 tags: [Perl]
 ---
 {% include JB/setup %}
-今天mixi的上海公司的工程师给我review了小骆驼第1到6章的内容。一些没有弄懂的东西记在这里。
+今天公司上海分部的工程师给我review了小骆驼第1到6章的内容。一些没有弄懂的东西记在这里。
 
 （1）perl文件内的多行注释：其实严格意义上来讲是没有多行注释的。但是[perlpod](http://perldoc.perl.org/perlpod.html)的东西可以支持各种形式的文档，其中也包括进行注释。
 
->Perlpod is a simple-to-use markup language used for writing documentation for Perl, Perl programs, and Perl modules.
-Translators are available for converting Pod to various formats like plain text, HTML, man pages, and more.
-Pod markup consists of three basic kinds of paragraphs: ordinary, verbatim, and command.
+>Perlpod is a simple-to-use markup language used for writing documentation for Perl, Perl programs, and Perl modules.Translators are available for converting Pod to various formats like plain text, HTML, man pages, and more.Pod markup consists of three basic kinds of paragraphs: ordinary, verbatim, and command.
 
 这里面讲的三种段落的格式，ordinary指的是这个段落会以最小的格式进行组织，也可以用一些格式的代码对段落进行排版；verbatim指的是不对段落做任何处理和解析； command指的是用特定的方式来处理这个段落。多行注释的方式有两种：
 
@@ -54,6 +52,6 @@ Pod markup consists of three basic kinds of paragraphs: ordinary, verbatim, and 
 
 	use POSIX qw(strftime);
 	my $formated_date = strftime("%Y-%m-%d",localtime);
-   printf $formated_date;	
+	printf $formated_date;	
 
 (5) reverse 哈希：在对哈希进行reverse操作的时候，hash会首先松绑为一个键值对列表，然后对其进行reverse操作就导致了键值互换。如果将这个列表重新存回新的哈希表中时，如果这时原来的值不唯一的话，就无法确定新的重复了的键到底哪一个被存到新的哈希中。这是因为松绑了以后的列表的键值对的顺序时不定的。
