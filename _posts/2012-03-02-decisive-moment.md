@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decisive Moment"
-category: 
+category: Shoot Forever
 tags: 
 ---
 {% include JB/setup %}
